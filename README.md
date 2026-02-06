@@ -33,6 +33,11 @@
   * 群组 / 频道 ID
   * 话题 ID（如存在）
   * 消息 ID
+  * <img width="855" height="328" alt="image" src="https://github.com/user-attachments/assets/483a93de-9f81-4a39-8776-c66ab3294a83" />
+  * <img width="1186" height="327" alt="image" src="https://github.com/user-attachments/assets/8fd7d148-fe82-4dd4-81be-6a88c44cb1e5" />
+
+
+
 * 使用 tdl 官方下载机制
 
 ---
