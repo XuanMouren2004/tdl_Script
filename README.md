@@ -1,6 +1,6 @@
 # 📦 tdl Telegram 工具箱 · 使用说明
 
-本项目是一个基于 **tdl（Telegram Downloader）** 的 **Telegram 工具箱脚本**，
+本项目是一个基于 [**iyear/tdl（Telegram Downloader）**](https://github.com/iyear/tdl) 的 **Telegram 工具箱脚本**，
 ---
 
 ## 🚀 发行版说明（已内置 tdl）
