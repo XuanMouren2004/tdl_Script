@@ -98,7 +98,7 @@ https://github.com/XuanMouren2004/tdl_Script/releases/
 * 内置代理连通性测试：
   * 自动检测当前出口 IP
   * 显示国家 / 城市（中英文）
-  * 测试 Google 连接状态与延迟（部分代理可能因证书问题失败）
+  * 测试 Google 连接状态与延迟（⚠️部分代理可能因证书问题失败）
 
 ---
 
