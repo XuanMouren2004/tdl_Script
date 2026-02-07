@@ -7,6 +7,8 @@
 
 ---
 
+[![License](https://img.shields.io/badge/license-AGPL--3.0-orange)](https://www.gnu.org/licenses/agpl-3.0.html)    [![Release](https://img.shields.io/badge/release-v0.1.2-red)](https://github.com/XuanMouren2004/tdl_Script/releases/tag/v0.1.2)
+
 ## 🚀 发行版说明（已内置 tdl）
 
 本项目已发布 **Windows 可执行发行版（EXE）**：
