@@ -122,7 +122,7 @@ https://github.com/XuanMouren2004/tdl_Script/releases/
 本项目依赖 **tdl** 执行 Telegram 操作。  
 在打包前，需自行从原作者项目下载 `tdl.exe`。
 
-👉 [tdl发行版：https://github.com/iyear/tdl](https://github.com/iyear/tdl/releases)
+👉 [tdl发行版：https://github.com/iyear/tdl/releases](https://github.com/iyear/tdl/releases)
 
 ---
 
